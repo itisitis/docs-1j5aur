@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://resources-ny4p8l.shadowdiary.com/sitemap.xml
